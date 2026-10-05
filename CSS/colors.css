@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+}
+#p1{
+    color:red;
+}
+#p2{
+    color:rgb(45, 227, 221);
+}
+#p3{
+    color:hsl(60, 82%, 45%);
+}
+#p4{
+    color:#d115c7;
+}
+

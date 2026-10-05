@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+    color:white;
+}
+#p1{
+    border-style:solid;
+    border-width:5px;
+    border-color:red;
+    border-radius:20px;
+}
+#p2{
+    border: 3px dashed green;
+}
+#p3{
+    border-style:dotted;
+    border-bottom: 5px dotted cyan;
+    border-top: 5px dotted brown;
+    border-left: 5px dotted lightgreen;
+    border-right: 5px dotted yellow;
+}
+#p4{
+    border-style:double;
+}
+#p5{
+    border-style:groove;
+}
+#p6{
+    border-style:ridge;
+}
+#p7{
+    border-style:inset;
+}
+#p8{
+    border-style:outset;
+}
+#p9{
+    border-style:none;
+}

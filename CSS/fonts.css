@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+#p1{
+    color:white;
+    font-family:Verdana,Arial,"lucida console";
+    font-size:25px;
+}
+#p2,#p3{
+    color:red;
+}
+#p4{
+    color:green;
+    font-family:Roboto;
+}
